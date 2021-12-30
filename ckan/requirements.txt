@@ -6,7 +6,7 @@ beaker==1.11.0
 billiard==3.3.0.23
 bleach==3.3.0
 boto==2.49.0
-celery==3.1.25
+celery==5.2.2
 certifi==2020.12.5
 cffi==1.12.3
 chardet==3.0.4
