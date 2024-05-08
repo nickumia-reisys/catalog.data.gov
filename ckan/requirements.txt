@@ -42,7 +42,7 @@ idna==2.10
 importlib-resources==5.4.0
 isodate==0.6.1
 itsdangerous==2.1.0
-Jinja2==3.0.0
+Jinja2==3.1.4
 json-table-schema==0.2.1
 jsonschema==2.4.0
 LEPL==5.1.3
