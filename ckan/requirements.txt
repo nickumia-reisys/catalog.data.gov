@@ -101,6 +101,6 @@ Werkzeug==2.0.0
 wrapt==1.13.3
 xlrd==2.0.1
 xmlschema==1.10.0
-zipp==3.7.0
+zipp==3.19.1
 zope.event==4.5.0
 zope.interface==5.4.0
